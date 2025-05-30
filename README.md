@@ -11,3 +11,20 @@ This Java program tracks the index of the current maximum value in an array as i
 - BufferedReader / PrintWriter for fast I/O
 
 ### Input Format
+M N
+i1 v1
+i2 v2
+
+### Sample Input
+5 4
+2 10
+3 5
+2 7
+0 10
+
+
+### Sample Output
+2
+2
+2
+0
